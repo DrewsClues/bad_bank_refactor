@@ -3,6 +3,8 @@
 ## Description/Motivation
 This project includes both the front and back end of a banking application.  The reason I am working on this project is to facilitate my learning of full stack development. 
 
+
+
 ## Installation
 Download the files from the repository into a single directory. Open a terminal and run npm init, npm install cors, npm install mongodb, and npm install express. Then make sure you have docker installed on your computer. Run the command: docker run -p 27017:27017 --name badbank -d mongo   
 One these steps have been completed running to command node index.js in the terminal should start the server and allow you access the application by navigating to localhost:3000 in the browser. 
@@ -13,6 +15,9 @@ This project uses HTML, CSS and ReactJs for the front end, MongoDB, Cors, and Ex
 ## Features
 This application allows one to create accounts in a fake bank, then withdraw and or deposit funds from said accound and have those values updated across the application.
 In the future I would like to add authentication to the application using firebase. 
+
+![bad_bank](https://user-images.githubusercontent.com/71215255/135288668-665e5367-ad5b-4999-97a9-f417aecc8cb6.JPG)
+
 
 ## Licensing information: 
 
